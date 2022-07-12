@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/budget_Organizer/static/css/main.f0d685eb.css",
+    "main.js": "/budget_Organizer/static/js/main.2244a1a9.js",
+    "index.html": "/budget_Organizer/index.html",
+    "main.f0d685eb.css.map": "/budget_Organizer/static/css/main.f0d685eb.css.map",
+    "main.2244a1a9.js.map": "/budget_Organizer/static/js/main.2244a1a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0d685eb.css",
+    "static/js/main.2244a1a9.js"
+  ]
+}
